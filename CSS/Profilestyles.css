@@ -1,0 +1,109 @@
+body{
+    text-align: center;
+    padding: 3% 37%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+img{
+    width: 25%;
+    padding-top: 15%;
+   
+}
+
+.top-arrow{
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    color: #fff;
+    
+}    
+
+ .menu{
+    position: absolute;
+    top: 4%;
+    right: 5%;
+    color: #fff;
+    
+}
+.card-inner{
+    margin: 7%;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 5px 10px 40px  black;
+   
+    
+}
+
+h4{
+   padding: 5% 0% 0% 0%;
+   
+}
+
+
+
+p{
+    color: grey;
+}
+
+.bit-info{
+    color: black;
+    margin:0% 10%;
+    padding-bottom: 5%;
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    color: #fff;
+  }
+
+  .followers{
+      position: relative;
+      float :left;
+      margin-left:15% ;
+      color: grey;
+  }
+
+  .following{
+      color: grey;
+  }
+
+  .followers p{
+      color: #e40017;
+  }
+
+  .following p{
+      color: #e40017;
+  }
+  
+  .card{
+      padding-bottom: 10%;
+      background-color: #ea2c62;
+      border: none;
+      border-radius: 10px;
+      
+  }
+ 
+  .hire-button{
+      margin: 0% 20%;
+  }
+
+  .verify-icon{
+      width: 7%;
+      padding: 0%;
+  }
+
+  .footer{
+      padding: 5%;
+      color: white;
+    
+      
+  }
+
+  .footer p{
+      color: white;
+      font-size: 10px;
+  }
+ 
